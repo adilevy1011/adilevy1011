@@ -8,7 +8,7 @@ Mathematics minor | Aspiring Software Engineer
 ## 🌱 Skills
 - Programming Languages: Java, Python, C, C#
 - Concepts: Object-Oriented Programming, Pointers, Memory Management, Data Structures
-- Tools: Git, GitHub, Gradle, Tkinter
+- Tools: Git, GitHub
 
 ## 📂 Projects
 Check out my repositories for my technical projects:  
