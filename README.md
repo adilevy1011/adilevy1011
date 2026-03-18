@@ -11,8 +11,7 @@ Mathematics minor | Aspiring Software Engineer
 - Tools: Git, GitHub
 
 ## 📂 Projects
-Check out my repositories for my technical projects:  
+Check out my repositories for my projects:  
 - [Chatter](https://github.com/adilevy1011/Chatter) - Chat desktop application. Log in, send direct messages, or chat with all online users in real time!
 - [Java Game Engine Prototype](https://github.com/adilevy1011/java-game-engine) — Object-oriented 2D game framework in Java with menu system and combat prototype
-- [C Linked List Implementation](https://github.com/adilevy1011/c-linked-list) — Singly linked list in C with insertion, deletion, traversal, and memory management
 - [Habit Tracker CLI/GUI](https://github.com/adilevy1011/Habit-Tracker-CLI-GUI) — Python GUI app for tracking daily streaks with persistent storage
