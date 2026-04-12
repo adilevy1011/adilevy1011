@@ -14,4 +14,4 @@ Mathematics minor | Aspiring Software Engineer
 Check out my repositories for my projects:  
 - [Chatter](https://github.com/adilevy1011/Chatter) - Chat desktop application. Log in, send direct messages, or chat with all online users in real time!
 - [Java Game Engine Prototype](https://github.com/adilevy1011/java-game-engine) — Object-oriented 2D game framework in Java with menu system and combat prototype
-- [Habit Tracker CLI/GUI](https://github.com/adilevy1011/Habit-Tracker-CLI-GUI) — Python GUI app for tracking daily streaks with persistent storage
+- [Finance Tracker](https://github.com/adilevy1011/Finance_Tracker) - A Python GUI app that visualizes and organizes financial transactions from a CSV file.
