@@ -22,4 +22,6 @@ Python sockets and threading. Custom networking protocols for reliable message d
 
 Check out some of my repositories:
 - [Chatter](https://github.com/adilevy1011/Chatter_2.0) - Chat desktop application and web client. Log in, add contacts and send them messages or create group chats!
-- [Java Game Engine Prototype](https://github.com/adilevy1011/java-game-engine) — Object-oriented 2D game framework in Java with menu system and combat prototype
+- [ADLV Streaming server](https://github.com/adilevy1011/streaming) - Set up your own streamimg server with my template so you can host videos amd share them
+with frinds and family.
+- [Java Game Engine Prototype](https://github.com/adilevy1011/java-game-engine) — Object-oriented 2D game framework in Java with menu system and combat prototype.
