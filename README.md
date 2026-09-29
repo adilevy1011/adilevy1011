@@ -25,3 +25,10 @@ Check out some of my repositories:
 - [ADLV Streaming server](https://github.com/adilevy1011/streaming) - Set up your own streamimg server with my template so you can host videos and share them
 with friends and family.
 - [Java Game Engine Prototype](https://github.com/adilevy1011/java-game-engine) — Object-oriented 2D game framework in Java with menu system and combat prototype.
+
+
+<p align="center">
+  <img
+    src="https://adilevy-github-stats.vercel.app/api/top-langs?username=adilevy1011&layout=compact&langs_count=8&theme=github_dark"
+  />
+</p>
