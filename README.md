@@ -1,6 +1,6 @@
 # Hi, I'm Adi Levy 
 
-Computer Science student at Cal Poly Pomona (B.Sc., 3.4 GPA)  
+Computer Science student at Cal Poly Pomona
 Mathematics minor | Aspiring Software Engineer  
 
 ---
