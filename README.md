@@ -104,5 +104,3 @@ Not a resume. Just what's on my desk most days.
 <p align="center">
   <img height="170" src="https://adilevy-github-stats.vercel.app/api?username=adilevy1011&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
-
----
