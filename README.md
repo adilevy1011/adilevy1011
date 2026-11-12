@@ -102,5 +102,14 @@ Not a resume. Just what's on my desk most days.
 ## The numbers (take with salt)
 
 <p align="center">
-  <img height="170" src="https://adilevy-github-stats.vercel.app/api?username=adilevy1011&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img
+    height="170"
+    src="https://adilevy-github-stats.vercel.app/api?username=adilevy1011&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    alt="GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://adilevy-github-stats.vercel.app/api/top-langs?username=adilevy1011&layout=compact&langs_count=8&theme=github_dark"
+    alt="Most used languages"
+  />
 </p>
