@@ -26,7 +26,7 @@ class Adi:
         }
 ```
 
-## 🔭 Spotlight: Pixelate *(private, for now)*
+## Spotlight: Pixelate *(private, for now)*
 
 Today, spinning up a simple native window with a button usually means drowning in boilerplate. **Pixelate (`.pxl`)** is my attempt at a domain-specific language for 2D graphics and desktop UIs that reads closer to how you'd describe a layout out loud:
 
@@ -38,7 +38,7 @@ window "Hello" {
 
 I recently restarted the language from scratch in **Python** to build a cleaner, more robust lexer, parser, and runtime from the ground up, wired into a native **C++ Win32** rendering engine for graphics (plus a custom VS Code extension). Opening the repo once the new runtime settles.
 
-## 🛠️ Things I've built
+## Things I've built
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ I recently restarted the language from scratch in **Python** to build a cleaner,
   </tr>
 </table>
 
-## 🧰 Toolbox
+## Toolbox
 
 Not a resume. Just what's on my desk most days.
 
@@ -91,7 +91,7 @@ Not a resume. Just what's on my desk most days.
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
 </p>
 
-## 🐕 Code review
+## Code review
 
 <p align="center">
   <img src="./assets/peach.gif" width="380" alt="Peach, my dog, sitting happily and wagging his tail" />
@@ -99,7 +99,7 @@ Not a resume. Just what's on my desk most days.
   <sub><i>Peach, senior reviewer. Approves every push😉</i></sub>
 </p>
 
-## 📊 The numbers (take with salt)
+## The numbers (take with salt)
 
 <p align="center">
   <img height="170" src="https://adilevy-github-stats.vercel.app/api?username=adilevy1011&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
